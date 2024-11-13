@@ -1,0 +1,16 @@
+{
+  "name": "halloween-dev-2024",
+  "version": "1.0.0",
+  "description": "Mejorá tu lógica con retos terroríficos de programación",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Nicolas Pedranti",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.5"
+  }
+}
